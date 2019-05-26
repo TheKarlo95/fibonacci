@@ -1,6 +1,13 @@
 # fibonacci
 Fibonacci in lots of different languages
 
+Note:
+https://rosettacode.org/wiki/Fibonacci_sequence
+and
+https://github.com/drujensen/fib
+are essentially this repository but better
+
+
 `fib_recurse` is the recursive, slow version.
 `fib_list` returns a list of the first n fibonacci numbers and runs in O(n).
 
